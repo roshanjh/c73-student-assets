@@ -1,0 +1,16 @@
+.movie_head{
+font-size:20px ;
+padding:7px ;
+border-radius:10px ;
+margin-bottom:20px ;
+}
+.movie_head i{
+float:right;
+
+}
+.movie_text span{
+ color:yellow;
+}
+.book{
+margin-bottom:15px ;
+}
